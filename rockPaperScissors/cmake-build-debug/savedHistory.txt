@@ -1,0 +1,66 @@
+
+P1 Paper
+P2 Paper
+We have a tie!!! 
+
+-------------------------
+P1 Scissors
+P2 Scissors
+We have a tie!!! 
+
+-------------------------
+P1 Rock
+P2 Scissors
+Player 1 won!!! 
+
+-------------------------
+P1 Paper
+P2 Scissors
+Player 2 won!!! 
+
+-------------------------
+P1 Scissors
+P2 Scissors
+We have a tie!!! 
+
+-------------------------
+P1 Paper
+P2 Paper
+We have a tie!!! 
+
+-------------------------
+P1 Paper
+P2 Rock
+Player 1 won!!! 
+
+-------------------------
+ Paper
+ Paper
+We have a tie!!! 
+
+-------------------------
+ Scissors
+ Rock
+Player 2 won!!! 
+
+-------------------------
+ Scissors
+ Paper
+Player 1 won!!! 
+
+-------------------------
+ Rock
+ Rock
+We have a tie!!! 
+
+-------------------------
+ Rock
+ Rock
+We have a tie!!! 
+
+-------------------------
+ Paper
+ Rock
+Player 1 won!!! 
+
+-------------------------
